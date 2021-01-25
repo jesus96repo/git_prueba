@@ -21,5 +21,6 @@ git log > log.txt - guardar los logs en un archivo txt
 
 
 
-
+#Para agregar los cambios de la rama al principal master
+git merge --> la rama no el principal
 
