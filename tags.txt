@@ -1,0 +1,31 @@
+
+
+git log   -> miestra el historial de los registro(commits) del proyecto
+con sus respecctivos autores, hora especidica y descripciones en caso 
+de tenerlo.
+
+git log --all -> muestra todo el hisotrial de los registros(commits) del rpoyecto con sus respectivos con sus autores
+
+git log -numero -> Muestra los ultimos numeros Commits realizados
+
+git log --stat -> muestra los cambios especificos de cada archivo de acuerdo al commits
+
+git log --all --graph --decorate --oneline -> muestra todo el historial de los registro de forma grafica y ordenada
+
+git tag -a v0.1 -m "mensaje" 523oijw -> Registra un tag v0.1 , un mensaje y el HASH del commit donde se va agrega en tag
+
+$git tag -l -> muestra lista de los tags existentes.
+
+git show-ref --tags -> Lista de los tags existentes con los commits respectivos
+
+git pull origin master
+
+git push origin --tags
+
+git tag
+
+git tag -d Dormido
+
+git pull origin master
+
+git push origin :refs/tags/Dormido 
