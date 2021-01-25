@@ -1,0 +1,14 @@
+¿como funciona la llaves publicas y privadas?
+
+
+mensaje secreto ->   le ponemos un password para que no puede descriptarlo, para que no
+le interceptamos.
+
+-> llave publica: lleva un msn que es visible a cualquier 
+
+-> llave privada: es una llave que no se puede descriptarlo.
+
+
+
+
+
