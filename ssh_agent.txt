@@ -30,5 +30,5 @@ Host *
 # computadora (en caso de error puedes ejecutar este
 # mismo comando pero sin el argumento -K):
 ssh-add -K ruta-donde-guardaste-tu-llave-privada
-
-
+cambio
+cambio
