@@ -8,7 +8,8 @@ le interceptamos.
 
 -> llave privada: es una llave que no se puede descriptarlo.
 
-
+#las demas opciones en fish no funcion , solo funciona este
+eval (ssh-agent -c)
 
 
 
